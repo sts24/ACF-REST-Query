@@ -16,6 +16,7 @@ This will query posts that have the ACF field of price equal to 50. It will also
 - Add support for greater than/less than of a field value
 - Add pages and other data types that can be queried by the API. (only supports posts and custom post types currently)
 
-### Questions
+### Questions?
 - [Email Scott](mailto:hello@smithscott.net)
+- [@scottsmith](https://www.twitter.com/scottsmith) on Twitter
 - Plugin created by [Scott Smith](https://www.smithscott.net)
