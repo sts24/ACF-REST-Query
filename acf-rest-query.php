@@ -4,7 +4,7 @@
 	Plugin URI: https://github.com/sts24/ACF-REST-Query
 	Author: Scott Smith
 	Author URI: https://www.smithscott.net
-	Description: Adds support for getting an REST API request with the parameter matching an Advanced Custom Field
+	Description: Adds support for getting a REST API request with the parameter matching an Advanced Custom Field
 	Version: 1.0
 	Network: true
 */
